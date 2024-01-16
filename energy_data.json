@@ -1,0 +1,39 @@
+{
+    "devices": [
+        {
+            "name": "Freezer",
+            "room": "Kitchen",
+            "consumption": [
+                2, 2, 3
+            ] 
+        },
+        {
+            "name": "Stove",
+            "room": "Kitchen",
+            "consumption": [
+                4, 4, 2
+            ] 
+        },
+        {
+            "name": "PC",
+            "room": "Office",
+            "consumption": [
+                1, 2, 1
+            ] 
+        },
+        {
+            "name": "Server",
+            "room": "Office",
+            "consumption": [
+                2, 2, 1
+            ] 
+        },
+        {
+            "name": "TV",
+            "room": "Living Room",
+            "consumption": [
+                1, 2, 1
+            ] 
+        }
+    ]
+}
